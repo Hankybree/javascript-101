@@ -1,0 +1,31 @@
+# Generated
+dist
+node_modules
+backend/core
+frontend/core
+static
+
+# Enviroment
+.env
+nginx
+
+# MacOS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vscode/launch.json
